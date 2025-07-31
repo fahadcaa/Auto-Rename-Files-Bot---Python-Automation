@@ -75,7 +75,7 @@ Pull requests are welcome! For major changes, open an issue first.
 
 ## License 📜
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [Your Name](https://github.com/fahadcaa)
 
 ---
 
